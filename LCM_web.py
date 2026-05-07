@@ -68,7 +68,7 @@
 # # 强制按照 FEATURES 列表的顺序排列 DataFrame
 # input_df = pd.DataFrame([input_dict])[FEATURES].astype(float)
 #
-# st.header("Predicting distant metastatic outcomes:")
+# st.header("Predicting risk:")
 #
 # # 预测触发按钮
 # if st.button("🚀 Calculate Metastasis Risk"):
